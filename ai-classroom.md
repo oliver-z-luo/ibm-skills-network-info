@@ -7,8 +7,7 @@ This learning environment is using "AI Classroom" provided by Skills Network. AI
 **Layout:**
 
 Right side: The AI Classroom resides here, providing various functionalities (see below).
-Left side: This area is divided into two sections:
-- Tai's Chat Interface: Holds chat history between learner and Tai, and learner message input field
+Left side:
 - Lab instructions: Guides the learner through their learning activities.
 
 **AI Classroom Functionalities:**
